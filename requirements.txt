@@ -1,0 +1,6 @@
+Django==1.10.5
+djangorestframework
+jinja2
+
+ipython
+ipdb
